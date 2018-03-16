@@ -1,0 +1,25 @@
+NCBI means National Center for Biotechnology Information
+	   美国国立生物技术信息中心
+	1、GenBank:The Nucleotide Sequence Database
+		GenBank核酸序列数据库的作用是提供
+		核酸序列多而全的查询和下载，它的产生作为NCBI
+		的一部分可以使用BankIt或者Sequin向GenBank提交
+		序列。
+	2、PubMed:The Bibliographic Database
+		该数据库被设计用于提供生物医学杂志的引用（摘要）
+		。
+	3、MMDB:Macromolecular Strucure Database
+		该数据库提供单个蛋白质的结构信息。
+	4、The Taxonomy Project:
+		该项目提供Organismal taxonomy 和Taxonomy database
+		第一个是一个强大的组织原则，在研究生物系统中。
+		第二个是GenBank数据库中所代表的所有生物体的名称
+		和分类精心策划的集合。
+	5、dbSNP:The Single Nucleotide Polymorphism Database
+		目的是支持提交和检索广泛的生物学问题。
+	6、GEO:The Gene Expression Omnibus
+		基因表达与杂交库
+		https://www.ncbi.nlm.nih.gov/books/NBK21093/
+		https://www.ebi.ac.uk/
+EBI means The European Bioinformatics Institute
+	   欧洲生物信息研究所
