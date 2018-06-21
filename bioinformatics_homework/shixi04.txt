@@ -1,0 +1,10 @@
+1. Gene Reference Into Function 注释的是基因的功能
+
+2. 有三篇文章，描述了缺少该基因在哺乳动物模型中会引发慢性鼻窦炎，该基因与先天性心脏病（左右不对称）有关。
+
+3. cilium movement, determinate of left/right sysmmetry, epithelial cilium movement
+   flagellated sperm motility, heart development, insulin receptor signaling pathway
+
+4. Q8C0M8
+
+
